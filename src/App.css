@@ -26,10 +26,12 @@
   border-radius: 3%;
   background-color: rgba(150, 61, 61, 0.527);
   cursor: pointer;
+  border-radius: 10%;
+  border: 2px solid white;
 
 }
 .search-button:hover{
-  box-shadow: 5px 3px 0px red;
+  box-shadow: 5px 3px 0px rgb(184, 168, 168);
 
 }
 .recipes{
@@ -38,7 +40,16 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+.receipe-app {
+  text-align: center;
+  color: #f8001d92;
+
+}
+.app-span {
+  color: #780b0e;
+}
 
 .menu{
   text-align: center;
+  color: #580e10;
 }
