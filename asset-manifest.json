@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Receipe-App/static/css/main.2d357825.css",
+    "main.js": "/Receipe-App/static/js/main.5efb2bab.js",
+    "index.html": "/Receipe-App/index.html",
+    "main.2d357825.css.map": "/Receipe-App/static/css/main.2d357825.css.map",
+    "main.5efb2bab.js.map": "/Receipe-App/static/js/main.5efb2bab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d357825.css",
+    "static/js/main.5efb2bab.js"
+  ]
+}
